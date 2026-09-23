@@ -1,0 +1,22 @@
+D:\Libraries\Downloads\NativeUI-IV-main\Source\NativeUI\obj\Release\NativeUI.Properties.Resources.resources
+D:\Libraries\Downloads\NativeUI-IV-main\Source\NativeUI\obj\Release\NativeUI.csproj.GenerateResource.cache
+D:\Libraries\Downloads\NativeUI-IV-main\Source\NativeUI\obj\Release\NativeUI.csproj.CoreCompileInputs.cache
+D:\Libraries\Downloads\NativeUI-IV-main\Source\NativeUI\bin\Release\NativeUI.dll
+D:\Libraries\Downloads\NativeUI-IV-main\Source\NativeUI\bin\Release\NativeUI.pdb
+D:\Libraries\Downloads\NativeUI-IV-main\Source\NativeUI\bin\Release\ScriptHookDotNet.dll
+D:\Libraries\Downloads\NativeUI-IV-main\Source\NativeUI\bin\Release\ScriptHookDotNet.xml
+D:\Libraries\Downloads\NativeUI-IV-main\Source\NativeUI\obj\Release\NativeUI.csproj.AssemblyReference.cache
+D:\Libraries\Downloads\NativeUI-IV-main\Source\NativeUI\obj\Release\NativeUI.csproj.CopyComplete
+D:\Libraries\Downloads\NativeUI-IV-main\Source\NativeUI\obj\Release\NativeUI.dll
+D:\Libraries\Downloads\NativeUI-IV-main\Source\NativeUI\obj\Release\NativeUI.pdb
+D:\GamesModding\Grand Theft Auto IV\Repos\NativeUI\bin\Release\NativeUI.dll
+D:\GamesModding\Grand Theft Auto IV\Repos\NativeUI\bin\Release\NativeUI.pdb
+D:\GamesModding\Grand Theft Auto IV\Repos\NativeUI\bin\Release\ScriptHookDotNet.dll
+D:\GamesModding\Grand Theft Auto IV\Repos\NativeUI\bin\Release\ScriptHookDotNet.xml
+D:\GamesModding\Grand Theft Auto IV\Repos\NativeUI\obj\Release\NativeUI.csproj.AssemblyReference.cache
+D:\GamesModding\Grand Theft Auto IV\Repos\NativeUI\obj\Release\NativeUI.Properties.Resources.resources
+D:\GamesModding\Grand Theft Auto IV\Repos\NativeUI\obj\Release\NativeUI.csproj.GenerateResource.cache
+D:\GamesModding\Grand Theft Auto IV\Repos\NativeUI\obj\Release\NativeUI.csproj.CoreCompileInputs.cache
+D:\GamesModding\Grand Theft Auto IV\Repos\NativeUI\obj\Release\NativeUI.csproj.CopyComplete
+D:\GamesModding\Grand Theft Auto IV\Repos\NativeUI\obj\Release\NativeUI.dll
+D:\GamesModding\Grand Theft Auto IV\Repos\NativeUI\obj\Release\NativeUI.pdb

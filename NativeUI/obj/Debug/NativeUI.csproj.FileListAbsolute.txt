@@ -1,0 +1,4 @@
+D:\Libraries\Downloads\NativeUI-IV-main\Source\NativeUI\obj\Debug\NativeUI.csproj.AssemblyReference.cache
+D:\Libraries\Downloads\NativeUI-IV-main\Source\NativeUI\obj\Debug\NativeUI.Properties.Resources.resources
+D:\Libraries\Downloads\NativeUI-IV-main\Source\NativeUI\obj\Debug\NativeUI.csproj.GenerateResource.cache
+D:\Libraries\Downloads\NativeUI-IV-main\Source\NativeUI\obj\Debug\NativeUI.csproj.CoreCompileInputs.cache
