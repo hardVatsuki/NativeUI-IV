@@ -1,6 +1,4 @@
 # About
-NativeUI IV is a library to create your on Rockstar-like menus for Grand Theft Auto IV.
-
 Current Version: 1.0  
 Download now on [NexusMods](https://www.nexusmods.com/gta4/mods/1455)
 Check [Wiki](https://github.com/hardVatsuki/NativeUI-IV/wiki) to learn how to create your own NativeUI IV menu.
